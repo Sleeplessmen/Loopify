@@ -1,2 +1,2 @@
 # Loopify
- A pet project that provides the essentials to kickstart a habit.
+ An mobile app that provides the essentials to kickstart a habit.
